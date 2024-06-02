@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Gelensoy</h1>
 
-- 🌱 I’m currently learning **Java, .Net**
-- 👀 I’m interested in **Java, .Net**
+- 🌱 I’m currently learning **Java**
+- 👀 I’m interested in **Java**
 
 - 📫 How to reach me **fgelensoy@gmail.com**
 
